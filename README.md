@@ -19,6 +19,8 @@ Through rigorous testing and hyperparameter optimization, the research found tha
 
 The "tweaks" and optimizations performed on the Random Forest model provided a 1.08% improvement over the standard implementation, establishing it as the most effective model for this dataset.
 
+![Model Comparison](results/results.png)
+
 ## Dataset
 This project uses the **Pima Indians Diabetes Database**. The dataset includes several medical predictor variables and one target variable (Outcome). 
 - **Predictors:** Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age.
