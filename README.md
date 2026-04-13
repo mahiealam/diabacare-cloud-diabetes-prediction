@@ -1,9 +1,9 @@
 # The DiabaCare Cloud: Predicting Diabetes Using Machine Learning
 
-#[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahiealam/diabacare-cloud-diabetes-prediction/blob/main/notebooks/DIABACARE_Cloud_I1.ipynb)
-#[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahiealam/diabacare-cloud-diabetes-prediction/blob/main/notebooks/DIABACARE_Cloud_I2.ipynb)
-#[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-#[![DOI](https://img.shields.io/badge/DOI-10.4025%2Factascitechnol.v46i1.64783-blue)](https://doi.org/10.4025/#actascitechnol.v46i1.64783)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahiealam/diabacare-cloud-diabetes-prediction/blob/main/notebooks/DIABACARE_Cloud_I1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahiealam/diabacare-cloud-diabetes-prediction/blob/main/notebooks/DIABACARE_Cloud_I2.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-10.4025%2Factascitechnol.v46i1.64783-blue)](https://doi.org/10.4025/#actascitechnol.v46i1.64783)
 
 ## Project Overview
 The **DiabaCare Cloud** project focuses on the implementation and evaluation of supervised Machine Learning (ML) algorithms to enhance the early detection of diabetes. Using a publicly available dataset of 768 individuals, this research explores the efficiency of various classification techniques—including Random Forest, Support Vector Machines, and others—to identify the most reliable model for clinical decision support systems.
