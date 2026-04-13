@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the research paper as below."
+authors:
+- family-names: "Alam"
+  given-names: "Mehtab"
+title: "The DiabaCare Cloud: Predicting Diabetes Using Machine Learning"
+doi: "10.4025/actascitechnol.v46i1.64783"
+date-released: 2023-12-14
+url: "https://github.com/mahiealam/diabacare-cloud-diabetes-prediction"
