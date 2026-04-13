@@ -1,0 +1,7 @@
+## Requirements
+This project requires Python 3.x and the following libraries:
+* pandas
+* scikit-learn
+* numpy
+* matplotlib
+* seaborn
